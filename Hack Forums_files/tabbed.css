@@ -1,0 +1,61 @@
+.shadetabs {
+	padding: 1px 0;
+	margin-left: 0px;
+	margin-top: 1px;
+	margin-bottom: 15px;
+	font: bold 12px Verdana;
+	list-style-type: none;
+	text-align: left;
+}
+
+.shadetabs li {
+display: inline;
+margin: 0;
+padding: 2px;
+
+}
+
+.shadetabs li a {
+   background-color: #393939;
+   border-radius: 2px 2px 2px 2px !important;
+	color:#efefef;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:3px 9px;
+	text-decoration:none;
+}
+
+.shadetabs li a:hover {
+	color: #ffffff;
+           background: #252424;
+	text-decoration:none;
+}
+
+.shadetabs li a.selected {
+           position: relative;
+           padding:5px 13px;
+           font-size:16px;
+           background: #252424;
+           color: #ffffff;
+}
+
+.shadetabs li a.selected:hover {
+text-decoration: none;
+}
+
+.tabcontent {
+display:none;
+}
+
+@
+media print {
+.tabcontent {
+display:block !important;
+}
+
+
+}
+
+
+		
