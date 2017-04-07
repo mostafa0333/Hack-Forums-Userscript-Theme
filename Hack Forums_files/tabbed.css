@@ -18,6 +18,7 @@ padding: 2px;
 .shadetabs li a {
    background-color: #393939;
    border-radius: 2px 2px 2px 2px !important;
+    box-shadow: 0 1px 0 0 #333333 inset !important;
 	color:#efefef;
 	font-family:arial;
 	font-size:15px;

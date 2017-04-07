@@ -559,11 +559,11 @@ div.error.ul {
 
 .pagination a {
 	border: 1px solid #292929;
-               background-color: #072948;
+               background-color: #393939;
 }
 
 .pagination .pagination_current {
-	background: #0F5799;
+	background: #222222;
 	font-weight: bold;
 }
 
@@ -828,9 +828,6 @@ display:inline;
 	color: #efefef;
 	background-color: #072948;
 	border: 1px solid #000 !important;
-	box-shadow: 0 1px 0 0 #0F5799 inset !important;
-           -moz-border-radius: 3px;
-           border-radius: 3px;
 	padding: 3px 6px;
 	text-shadow: 1px 1px 0px #000;
 	text-decoration: none;
@@ -846,8 +843,8 @@ display:inline;
 
 
 .bitButton {
-	color: #efefef;
-	background-color: #072948;
+	color: #ffffff;
+	background-color: #333333;
 	border: 1px solid #000 !important;
 	padding: 3px 6px;
            -moz-border-radius: 3px;
