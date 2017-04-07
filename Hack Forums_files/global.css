@@ -826,10 +826,9 @@ display:inline;
 
 .button {
 	color: #efefef;
-	background-color: #072948;
+	background-color: #333333;
 	border: 1px solid #000 !important;
 	padding: 3px 6px;
-	text-shadow: 1px 1px 0px #000;
 	text-decoration: none;
 	font-family: arial;
 	font-size: 14px;
